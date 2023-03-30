@@ -6,10 +6,10 @@ MarkupSafe
 Werkzeug
 numpy
 scipy
-scikit-learn
+
 matplotlib
 pandas
 streamlit
-nltk
 
-
+sentencepiece
+transformer
